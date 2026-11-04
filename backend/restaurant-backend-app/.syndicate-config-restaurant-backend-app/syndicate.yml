@@ -1,0 +1,4 @@
+account_id: "716128130111"
+region: "eu-north-1"
+project_path: "D:/marathon2026/backend/restaurant-backend-app"
+deploy_target_bucket: "marathon2026-restaurant-artifacts-716128130111"

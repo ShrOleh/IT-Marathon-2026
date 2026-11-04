@@ -1,0 +1,43 @@
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+*.code-workspace
+
+# OS
+.DS_Store
+._*
+Thumbs.db
+
+# Node
+node_modules/
+
+# Local deployment tools
+syndicate_venv/
+
+# Local env
+.env
+.env.local
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+
+# Credentials and private keys
+.aws/
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+
+# Terraform
+**/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.tfvars
+*.tfvars.json
+crash.log
+crash.*.log
